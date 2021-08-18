@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terry
-- 👀 I’m interested in travel, culture, and being the best version of myself
+- 👀 I’m interested in travel, culture, and self-help
 - 🌱 I’m currently learning Java Reactive
 - 💞️ I’m looking to collaborate on improving quality of life
 - 📫 How to reach me. Email at Terry.Light@revature.net
